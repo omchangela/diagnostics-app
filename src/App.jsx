@@ -8,7 +8,6 @@ function App() {
     return (
         <Router>
             <Routes>
-                {/* Define the default route */}
                 <Route path="/" element={<Login />} />
                 <Route path="/login" element={<Login />} />
                 <Route path="/signup" element={<Signup />} />
