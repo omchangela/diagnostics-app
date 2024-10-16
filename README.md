@@ -4,7 +4,7 @@
 Watch the video demonstration of the app [here](https://www.awesomescreenshot.com/video/32607227?key=001983883d9df1a9ed7246b7fe95b3c8).
 
 ## Image
-![Login](/frontend/src/assets/login.png)
+![Login](/frontend/readmeimg/login.png)
 
 ![Login mobile view](/frontend/src/assets/login2.png)
 
